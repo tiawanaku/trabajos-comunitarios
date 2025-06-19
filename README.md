@@ -67,3 +67,4 @@ php artisan filament:upgrade &&
 php artisan migrate:fresh &&
 php artisan storage:link
 ```
+php artisan make:filament-user
